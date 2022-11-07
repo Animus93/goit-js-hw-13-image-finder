@@ -1,0 +1,35 @@
+{
+  "name": "new-proj-name",
+  "version": "2.0.0",
+  "description": "**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**",
+  "homepage": "https://animus93.github.io/new-proj-name/",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /new-proj-name/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Animus93/new-proj-name.git"
+  },
+  "keywords": [],
+  "author": "Dmitriy Eremin <animus.dmitriy@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Animus93/new-proj-name/issues"
+  },
+  "dependencies": {
+    "basiclightbox": "^5.0.4",
+    "handlebars": "^4.7.7",
+    "lodash.debounce": "^4.0.8",
+    "modern-normalize": "^1.1.0",
+    "parcel-transformer-hbs": "^1.0.4",
+    "pexels": "^1.4.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
