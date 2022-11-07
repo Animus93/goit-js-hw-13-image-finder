@@ -1,21 +1,21 @@
 {
-  "name": "new-proj-name",
+  "name": "goit-js-hw-13-image-finder",
   "version": "2.0.0",
   "description": "**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**",
-  "homepage": "https://animus93.github.io/new-proj-name/",
+  "homepage": "https://animus93.github.io/goit-js-hw-13-image-finder/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /new-proj-name/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-13-image-finder/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Animus93/new-proj-name.git"
+    "url": "git+https://github.com/Animus93/goit-js-hw-13-image-finder.git"
   },
   "keywords": [],
   "author": "Dmitriy Eremin <animus.dmitriy@yandex.ru>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Animus93/new-proj-name/issues"
+    "url": "https://github.com/Animus93/goit-js-hw-13-image-finder/issues"
   },
   "dependencies": {
     "basiclightbox": "^5.0.4",
